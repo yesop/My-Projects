@@ -1,0 +1,20 @@
+home_team_name,away_team_name,Pre-Match PPG (Home),Pre-Match PPG (Away),home_ppg,away_ppg,home_team_goal_count,away_team_goal_count,total_goal_count,total_goals_at_half_time,home_team_goal_count_half_time,away_team_goal_count_half_time,home_team_corner_count,away_team_corner_count,home_team_yellow_cards,home_team_red_cards,away_team_yellow_cards,away_team_red_cards,home_team_first_half_cards,home_team_second_half_cards,away_team_first_half_cards,away_team_second_half_cards,home_team_shots,away_team_shots,home_team_shots_on_target,away_team_shots_on_target,home_team_shots_off_target,away_team_shots_off_target,home_team_fouls,away_team_fouls,home_team_possession,away_team_possession,Home Team Pre-Match xG,Away Team Pre-Match xG,team_a_xg,team_b_xg,average_goals_per_match_pre_match,Status_home
+Nottingham Forest,West Ham United,0,0,1.58,0.63,1,0,1,1,1,0,6,7,4,0,1,0,0,4,1,0,14,20,7,6,7,14,10,11,43,57,0,0,1.72,2.09,0,Win_home
+Nottingham Forest,Tottenham Hotspur,3,1,1.58,1.21,0,2,2,1,0,1,6,1,6,0,1,0,0,6,0,1,18,20,2,8,16,12,11,13,55,45,1.72,1.06,1.84,2.03,2.5,Loss_home
+Nottingham Forest,AFC Bournemouth,1.5,0,1.58,0.89,2,3,5,2,2,0,4,6,2,0,1,0,1,1,1,0,12,9,4,4,8,5,13,10,53,47,1.78,0.59,1.43,1.13,4,Loss_home
+Nottingham Forest,Fulham,1,0.33,1.58,1.21,2,3,5,1,1,0,2,10,2,0,4,0,2,0,1,3,11,16,4,8,7,8,11,10,41,59,1.66,1.09,1.14,1.96,2.34,Loss_home
+Nottingham Forest,Aston Villa,0.75,0.25,1.58,1.21,1,1,2,2,1,1,1,4,3,0,3,0,2,1,1,2,7,13,4,3,3,10,13,19,40,60,1.53,1.43,1.04,1.48,2.75,Draw_home
+Nottingham Forest,Liverpool,0.8,0.5,1.58,1.21,1,0,1,0,0,0,2,11,2,0,1,0,0,2,0,1,11,16,8,8,3,8,14,8,25,75,1.43,1.83,1.44,2.11,3,Win_home
+Nottingham Forest,Brentford,1.17,0.5,1.58,1.16,2,2,4,2,1,1,3,3,2,0,2,0,2,0,1,1,17,8,8,3,9,5,10,11,48,52,1.43,1.4,2.08,0.99,3.09,Draw_home
+Nottingham Forest,Crystal Palace,1.14,1,1.58,0.89,1,0,1,0,0,0,1,5,1,0,4,0,0,1,1,3,10,9,3,2,7,7,11,13,32,68,1.53,1.26,1.04,1.1,2.6,Win_home
+Nottingham Forest,Chelsea,1.38,1.25,1.58,1,1,1,2,1,0,1,1,2,2,0,2,0,1,1,0,2,13,8,6,3,7,5,16,14,28,72,1.46,1.63,1.53,1.01,2.44,Draw_home
+Nottingham Forest,Leicester City,1.33,1,1.58,0.79,2,0,2,0,0,0,3,5,1,0,2,0,0,1,1,1,14,6,4,2,10,4,11,12,39,61,1.47,1.48,1.46,0.86,3.39,Win_home
+Nottingham Forest,Leeds United,1.5,0.56,1.58,0.47,1,0,1,1,1,0,0,2,4,0,2,0,1,3,1,1,7,11,3,5,4,6,15,14,30,70,1.47,1.49,0.91,1.67,2.92,Win_home
+Nottingham Forest,Manchester City,1.64,1.82,1.58,1.95,1,1,2,1,0,1,0,10,1,0,0,0,1,0,0,0,4,18,2,7,2,11,8,6,27,73,1.42,1.87,0.51,2.33,2.46,Draw_home
+Nottingham Forest,Everton,1.58,0.58,1.58,0.79,2,2,4,3,1,2,3,3,3,0,5,0,0,3,1,4,7,6,5,4,2,2,11,17,57,43,1.35,1.04,0.99,0.9,2.25,Draw_home
+Nottingham Forest,Newcastle United,1.54,1.5,1.58,1.68,1,2,3,2,1,1,3,7,5,0,1,0,1,4,1,0,6,10,4,5,2,5,10,6,39,61,1.32,1.48,0.92,1.45,2.27,Loss_home
+Nottingham Forest,Wolverhampton Wanderers,1.43,0.71,1.58,0.58,1,1,2,1,1,0,4,3,3,0,5,0,2,1,2,3,15,5,8,2,7,3,12,12,28,72,1.29,1.37,1.82,0.85,2.4,Draw_home
+Nottingham Forest,Manchester United,1.4,1.43,1.58,1.42,0,2,2,1,0,1,4,9,2,0,2,0,0,2,1,1,5,18,0,9,5,9,9,9,32,68,1.32,1.48,0.56,2.4,2.88,Loss_home
+Nottingham Forest,Brighton & Hove Albion,1.31,1.67,1.58,1.47,3,1,4,2,1,1,2,7,2,0,0,0,1,1,0,0,11,14,6,8,5,6,7,8,25,75,1.28,1.79,1.3,1.86,2.96,Win_home
+Nottingham Forest,Southampton,1.41,0.82,1.58,0.74,4,3,7,4,3,1,2,11,1,0,0,0,0,1,0,0,11,20,6,6,5,14,15,10,36,64,1.28,1.16,1.38,2.08,2.5,Win_home
+Nottingham Forest,Arsenal,1.5,2.17,1.58,2.05,1,0,1,1,1,0,3,6,3,0,2,0,2,1,0,2,7,12,3,4,4,8,11,12,18,82,1.28,1.61,0.88,1.69,2.84,Win_home
